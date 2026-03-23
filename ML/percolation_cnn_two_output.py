@@ -38,12 +38,6 @@ Figures produced
 Usage
 -----
     python3 percolation_cnn_two_output.py
-
-Important
----------
-If you change the training data strategy or model architecture, set:
-    FORCE_RETRAIN = True
-or delete the checkpoints directory.
 """
 
 import os
